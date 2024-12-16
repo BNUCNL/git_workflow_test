@@ -312,11 +312,11 @@ Deleted branch feat-zyj (was 93745b1).
 
 一个仓库只有部分人员有管理员权限，其他人只有读权限，因此个人工作分支需由管理人员统一创建，github提供了非命令行操作的创建方法：
 
-<img src="file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152447928.png?lastModify=1734192865" alt="image-20241206152447928" style="zoom: 67%;" />
+<img src="file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152447928.png" alt="image-20241206152447928" style="zoom: 67%;" />
 
-<img src="file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152520998.png?lastModify=1734192865" alt="image-20241206152520998" style="zoom: 50%;" />
+<img src="file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152520998.png" alt="image-20241206152520998" style="zoom: 50%;" />
 
-<img src="file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152556341.png?lastModify=1734192865" alt="image-20241206152556341" style="zoom:50%;" />
+<img src="file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152556341.png" alt="image-20241206152556341" style="zoom:50%;" />
 
 Git bash 操作
 
