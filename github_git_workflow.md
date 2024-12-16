@@ -323,15 +323,13 @@ Deleted branch feat-zyj (was 93745b1).
 
 一个仓库只有部分人员有管理员权限，其他人只有读权限，因此个人工作分支需由管理人员统一创建，github提供了非命令行操作的创建方法：
 
-![image-20241206152447928](file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152447928.png?lastModify=1734192865)
+<img src="img/github_git_workflow/image-20241206152447928.png" alt="image-20241206152447928" style="zoom:33%;" />
 
 
-
-![image-20241206152520998](file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152520998.png?lastModify=1734192865)
-
+<img src="img/github_git_workflow/image-20241206152520998.png" alt="image-20241206152520998" style="zoom:33%;" />
 
 
-![image-20241206152556341](file:///Users/starvir/Documents/typora/img/github_git_workflow/image-20241206152556341.png?lastModify=1734192865)
+<img src="img/github_git_workflow/image-20241206152556341.png" alt="image-20241206152556341" style="zoom:33%;" />
 
 BNUCNL下
 
